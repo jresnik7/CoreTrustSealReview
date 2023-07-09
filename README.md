@@ -12,6 +12,8 @@ We review 10 different repositories submission applications and the reviewers re
 9. The Odum Institute for Research in Social Science, University of North Carolina at Chapel Hill
 10. Clarino Bergen Centre, University of Bergen Library
 
+## DOI & License
+
 The DOI for the document is listed below. This is licensed under the Creative Commons Zero License. The document is also contained within the repository, as Data Stewardship Exercise 2.pdf.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8128391.svg)](https://doi.org/10.5281/zenodo.8128391)
