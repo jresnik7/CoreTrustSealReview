@@ -1,4 +1,4 @@
-# CoreTrustSealReview
+# Core Trust Seal Review
 We review 10 different repositories submission applications and the reviewers reviews for Core Trust Seal Certification. We then wrote our review of the R09 requirement for Core Trust Seal certification for the Technical University of Vienna Research Data repository. The repositories we reviewed are listed below.
 ## Reviewed Repositories
 1. Edinburgh DataShare, University of Edinburgh
